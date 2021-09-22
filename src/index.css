@@ -1,6 +1,13 @@
-body {
+* {
+  box-sizing: border-box;
   margin: 0;
+  padding: 0;
+  text-decoration: none;
 }
 
-code {
+body {
+  margin: 0;
+  background-color: #14141f;
+  color: #fff;
+  font-size: 16px;
 }

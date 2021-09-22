@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap");
+.navigationBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #121212;
+}
+
+.logo {
+  font-family: "Fredericka the Great", cursive;
+  padding: 1rem 0.5rem;
+  font-size: 1.3rem;
+  color: #fff;
+}
+
+.navList {
+  display: flex;
+}
+
+.link {
+  list-style: none;
+  margin: 0 0.7rem;
+  padding: 1rem 0.5rem;
+}
+
+.link__item {
+  color: #fff;
+  font-size: 1.3rem;
+}
